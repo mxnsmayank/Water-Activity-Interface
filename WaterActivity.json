@@ -1,0 +1,6 @@
+{
+    "inst":"WaterActivity",
+    "analysis":["WATERACT-P","WATER-ACT"],
+    "lab":[ "Burnaby"],
+    "mode":"P"
+}
